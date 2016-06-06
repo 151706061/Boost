@@ -7,13 +7,14 @@ were extracted from the Boost 1.60.0 source distribution package using
 [BCP](file:///Users/as12312/Downloads/boost_1_60_0/tools/bcp/doc/html/index.html):
 
 ```bash
-bcp boost/random.hpp               ThirdParty/Boost
-bcp boost/cstdint.hpp              ThirdParty/Boost
-bcp boost/config/no_tr1/cmath.hpp  ThirdParty/Boost
-bcp boost/math/tools/tuple.hpp     ThirdParty/Boost
-bcp boost/numeric/ublas/lu.hpp     ThirdParty/Boost
-bcp boost/numeric/ublas/matrix.hpp ThirdParty/Boost
-bcp boost/numeric/ublas/vector.hpp ThirdParty/Boost
+bcp boost/random.hpp                ThirdParty/Boost
+bcp boost/cstdint.hpp               ThirdParty/Boost
+bcp boost/config/no_tr1/cmath.hpp   ThirdParty/Boost
+bcp boost/math/tools/polynomial.hpp ThirdParty/Boost
+bcp boost/math/tools/tuple.hpp      ThirdParty/Boost
+bcp boost/numeric/ublas/lu.hpp      ThirdParty/Boost
+bcp boost/numeric/ublas/matrix.hpp  ThirdParty/Boost
+bcp boost/numeric/ublas/vector.hpp  ThirdParty/Boost
 ```
 
 These files can be used instead of an available system Boost installation
